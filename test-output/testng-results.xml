@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigate to Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Organization Look up Image]]>
+    </line>
+    <line>
+      <![CDATA[Create organization with mandatory Fields]]>
+    </line>
+    <line>
+      <![CDATA[validate for Organization]]>
+    </line>
+    <line>
+      <![CDATA[Create Contact]]>
+    </line>
+    <line>
+      <![CDATA[Validate for contact]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-05T11:22:44 IST" name="Default suite" finished-at="2023-04-05T11:23:42 IST" duration-ms="57271">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T11:22:44 IST" name="Default test" finished-at="2023-04-05T11:23:42 IST" duration-ms="57271">
+      <class name="vtiger.Contacts.tests.CreateContactWithOrgNameTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:22:44 IST" name="bsConfig" finished-at="2023-04-05T11:22:44 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:22:46 IST" name="bcConfig" finished-at="2023-04-05T11:22:56 IST" duration-ms="10399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:22:56 IST" name="bmConfig" finished-at="2023-04-05T11:23:01 IST" duration-ms="5088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="CreateContactWithOrgName()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:23:01 IST" name="CreateContactWithOrgName" finished-at="2023-04-05T11:23:37 IST" duration-ms="36199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigate to Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Organization Look up Image]]>
+            </line>
+            <line>
+              <![CDATA[Create organization with mandatory Fields]]>
+            </line>
+            <line>
+              <![CDATA[validate for Organization]]>
+            </line>
+            <line>
+              <![CDATA[Create Contact]]>
+            </line>
+            <line>
+              <![CDATA[Validate for contact]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateContactWithOrgName -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:23:37 IST" name="amConfig" finished-at="2023-04-05T11:23:40 IST" duration-ms="2276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:23:40 IST" name="acConfig" finished-at="2023-04-05T11:23:42 IST" duration-ms="1806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.Contacts.tests.CreateContactWithOrgNameTest@53aac487]" started-at="2023-04-05T11:23:43 IST" name="asConfig" finished-at="2023-04-05T11:23:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vtiger.Contacts.tests.CreateContactWithOrgNameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
